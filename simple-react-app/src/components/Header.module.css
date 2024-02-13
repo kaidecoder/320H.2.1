@@ -1,0 +1,15 @@
+.list {
+    font-size: 2rem;
+
+}
+
+.list a {
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+    margin-left: 50px;
+}
